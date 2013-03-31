@@ -6,5 +6,10 @@
   "dependencies": {
     "component/jquery": "*"
   },
-  "scripts": []
+  "scripts": [],
+  "licence": "Apache2",
+  "styles": [
+    "css/bootstrap.css",
+    "css/bootstrap-responsive.css"
+  ]
 }
