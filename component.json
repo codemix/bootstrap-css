@@ -9,7 +9,6 @@
   "scripts": [],
   "licence": "Apache2",
   "styles": [
-    "css/bootstrap.css",
-    "css/bootstrap-responsive.css"
+    "css/bootstrap.css"
   ]
 }
