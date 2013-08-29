@@ -4,7 +4,7 @@
   "description": "The full CSS and LESS for twitter bootstrap",
   "version": "3.0.0",
   "dependencies": {
-    "components/jquery": "*"
+    "component/jquery": "*"
   },
   "scripts": [],
   "licence": "Apache2",
