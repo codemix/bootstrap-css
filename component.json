@@ -3,9 +3,7 @@
   "repo": "codemix/bootstrap-css",
   "description": "The full CSS and LESS for twitter bootstrap",
   "version": "3.0.0",
-  "dependencies": {
-    "component/jquery": "*"
-  },
+  "dependencies": {},
   "scripts": [],
   "licence": "Apache2",
   "styles": [
